@@ -1,6 +1,6 @@
-# Museum landing page
+# Dia landing page
 
-[LIVE DEMO](https://yaroslavkolbaiev.github.io/museum-landing/)
+[LIVE DEMO](https://yaroslavkolbaiev.github.io/dia/)
 
 # About the projects
 
