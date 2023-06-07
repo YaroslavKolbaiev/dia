@@ -1,4 +1,4 @@
-# Dia landing page
+# Dia Landing page
 
 [LIVE DEMO](https://yaroslavkolbaiev.github.io/dia/)
 
